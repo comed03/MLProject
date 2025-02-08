@@ -1,0 +1,2 @@
+To run the file we use --->>>  python -m src.components.data_ingestion
+otherwise src is not reckon by terminal. 
